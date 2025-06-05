@@ -1,0 +1,6 @@
+include *.py
+include requirements.txt
+include README.md
+recursive-include app_highskills/public *
+recursive-include app_highskills/templates *
+recursive-include app_highskills/www *
